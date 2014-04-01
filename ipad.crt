@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Schafer Corporation, OU=Ionic Mobile, OU=Secure Share, CN=Root CA
+        Validity
+            Not Before: Mar 26 17:35:09 2014 GMT
+            Not After : Mar 26 17:35:09 2015 GMT
+        Subject: C=US, O=Schafer Corporation, OU=Ionic Mobile, OU=Secure Share, OU=Clients, CN=User0001
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:f7:b8:0f:62:48:07:11:d0:7d:88:36:9c:7e:ec:
+                    f5:e7:11:5c:e9:01:7b:27:97:20:d4:a7:44:3e:5e:
+                    79:5c:de:22:0a:06:eb:ee:cb:ba:82:d7:09:00:07:
+                    e8:22:32:f2:84:34:2d:15:53:f9:d5:19:c0:16:a6:
+                    11:42:18:9b:3a:78:86:6a:f1:86:55:3e:62:3b:45:
+                    0f:ed:2e:34:34:02:77:4b:b5:d4:0b:f8:9e:79:09:
+                    d1:02:8a:d7:e2:d5:e9:cb:4b:47:df:bb:d0:42:83:
+                    5b:33:a8:f1:1e:2c:b7:44:0a:0b:e5:f3:4b:b8:b1:
+                    7c:a8:7f:a5:88:39:a7:3b:d6:e6:51:81:2b:ce:27:
+                    2f:23:dd:a0:ea:08:79:54:3d:7f:00:68:a8:a0:f8:
+                    db:15:19:1d:10:9d:06:57:1b:8b:e9:f5:e0:1e:d1:
+                    53:8a:52:7c:2b:75:c5:c9:fa:e4:3f:05:80:2d:bb:
+                    c8:55:1b:b0:37:2f:b5:ed:66:55:0f:7e:57:9d:a6:
+                    f5:86:af:42:db:87:3d:e0:48:1a:72:a1:5d:7c:09:
+                    9d:c0:0d:68:b5:1c:40:00:0e:9d:6f:45:58:0b:31:
+                    2f:07:59:1b:8c:71:d3:89:58:9e:06:12:57:ed:a2:
+                    d2:33:03:94:f7:31:0e:77:f5:db:95:1e:35:18:16:
+                    4b:47
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                17:14:BB:5E:6C:6D:EC:FE:50:90:5D:D6:BB:E6:B2:EE:F2:4A:99:13
+            X509v3 Authority Key Identifier: 
+                keyid:13:04:5F:CA:88:7B:1E:8A:1B:27:E2:9A:F1:7C:10:A4:4B:C6:C9:FE
+
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                email:user_0001@example.com
+    Signature Algorithm: sha256WithRSAEncryption
+         30:90:e3:01:c3:d7:14:6c:f0:d2:ba:37:d4:8a:f6:84:40:b0:
+         b2:84:da:18:56:d3:2b:56:6c:21:bc:02:ef:33:b4:2c:76:5f:
+         04:98:8d:73:81:69:97:c9:5c:c9:7e:42:25:d3:ab:40:3f:03:
+         6d:aa:4b:fa:7a:8a:fe:f0:b3:cf:0b:0c:ff:68:d6:d9:20:95:
+         ff:bf:29:98:7d:71:55:99:84:dd:23:ed:e2:1c:d0:d4:b1:47:
+         b4:a7:5c:40:82:06:b2:d7:77:1e:0c:3d:bd:eb:a9:3d:c9:32:
+         97:8c:87:35:da:c6:45:e1:8f:78:98:8f:06:b7:7d:7e:5b:4e:
+         c6:42:e8:32:07:21:3d:35:bc:4c:e9:2e:ca:00:f5:67:9e:51:
+         4c:a0:23:9f:92:d0:c0:0e:f1:44:86:2b:21:c6:1c:a0:70:9f:
+         37:57:7b:af:ab:90:c0:2b:e4:e1:0f:47:6d:08:95:93:36:1f:
+         7e:58:42:8a:d3:df:5b:62:c4:5b:5f:38:16:62:34:68:79:c7:
+         ec:24:2b:86:76:43:4c:3d:7e:26:ea:b7:f8:b5:f1:25:09:f0:
+         e8:ad:a0:1a:e8:05:53:0d:57:4f:cc:1d:da:34:34:a2:70:1a:
+         ef:0a:7c:8a:85:68:19:e3:94:9d:9a:6a:44:97:a3:29:a8:51:
+         56:83:f5:4b
+-----BEGIN CERTIFICATE-----
+MIID9zCCAt+gAwIBAgIBATANBgkqhkiG9w0BAQsFADBrMQswCQYDVQQGEwJVUzEc
+MBoGA1UEChMTU2NoYWZlciBDb3Jwb3JhdGlvbjEVMBMGA1UECxMMSW9uaWMgTW9i
+aWxlMRUwEwYDVQQLEwxTZWN1cmUgU2hhcmUxEDAOBgNVBAMTB1Jvb3QgQ0EwHhcN
+MTQwMzI2MTczNTA5WhcNMTUwMzI2MTczNTA5WjB+MQswCQYDVQQGEwJVUzEcMBoG
+A1UEChMTU2NoYWZlciBDb3Jwb3JhdGlvbjEVMBMGA1UECxMMSW9uaWMgTW9iaWxl
+MRUwEwYDVQQLEwxTZWN1cmUgU2hhcmUxEDAOBgNVBAsTB0NsaWVudHMxETAPBgNV
+BAMTCFVzZXIwMDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA97gP
+YkgHEdB9iDacfuz15xFc6QF7J5cg1KdEPl55XN4iCgbr7su6gtcJAAfoIjLyhDQt
+FVP51RnAFqYRQhibOniGavGGVT5iO0UP7S40NAJ3S7XUC/ieeQnRAorX4tXpy0tH
+37vQQoNbM6jxHiy3RAoL5fNLuLF8qH+liDmnO9bmUYErzicvI92g6gh5VD1/AGio
+oPjbFRkdEJ0GVxuL6fXgHtFTilJ8K3XFyfrkPwWALbvIVRuwNy+17WZVD35Xnab1
+hq9C24c94EgacqFdfAmdwA1otRxAAA6db0VYCzEvB1kbjHHTiVieBhJX7aLSMwOU
+9zEOd/XblR41GBZLRwIDAQABo4GSMIGPMAkGA1UdEwQCMAAwHQYDVR0OBBYEFBcU
+u15sbez+UJBd1rvmsu7ySpkTMB8GA1UdIwQYMBaAFBMEX8qIex6KGyfimvF8EKRL
+xsn+MAsGA1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAjAgBgNVHREEGTAX
+gRV1c2VyXzAwMDFAZXhhbXBsZS5jb20wDQYJKoZIhvcNAQELBQADggEBADCQ4wHD
+1xRs8NK6N9SK9oRAsLKE2hhW0ytWbCG8Au8ztCx2XwSYjXOBaZfJXMl+QiXTq0A/
+A22qS/p6iv7ws88LDP9o1tkglf+/KZh9cVWZhN0j7eIc0NSxR7SnXECCBrLXdx4M
+Pb3rqT3JMpeMhzXaxkXhj3iYjwa3fX5bTsZC6DIHIT01vEzpLsoA9WeeUUygI5+S
+0MAO8USGKyHGHKBwnzdXe6+rkMAr5OEPR20IlZM2H35YQorT31tixFtfOBZiNGh5
+x+wkK4Z2Q0w9fibqt/i18SUJ8OitoBroBVMNV0/MHdo0NKJwGu8KfIqFaBnjlJ2a
+akSXoymoUVaD9Us=
+-----END CERTIFICATE-----

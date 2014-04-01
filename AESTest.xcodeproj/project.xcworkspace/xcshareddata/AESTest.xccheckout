@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B14196C-015F-4120-80ED-983725380C90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AESTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43757FC5-4466-4DF0-B1C0-37F3E2AF6254</key>
+		<string>https://github.com/josephhainline/AppleBugTLSConnectionFailsWithEllipticCurveClientCert.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AESTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43757FC5-4466-4DF0-B1C0-37F3E2AF6254</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/josephhainline/AppleBugTLSConnectionFailsWithEllipticCurveClientCert.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43757FC5-4466-4DF0-B1C0-37F3E2AF6254</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43757FC5-4466-4DF0-B1C0-37F3E2AF6254</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppleBugTLSConnectionFailsWithEllipticCurveClientCert</string>
+		</dict>
+	</array>
+</dict>
+</plist>

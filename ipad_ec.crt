@@ -1,0 +1,69 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Schafer Corporation, OU=Ionic Mobile, OU=Secure Share, CN=Root CA
+        Validity
+            Not Before: Mar 26 18:13:21 2014 GMT
+            Not After : Mar 26 18:13:21 2015 GMT
+        Subject: C=US, O=Schafer Corporation, OU=Ionic Mobile, OU=Secure Share, OU=Clients, CN=User0002
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub: 
+                    04:f2:1b:f1:63:03:dc:56:f0:f8:ee:c0:dd:44:f4:
+                    c9:38:7d:25:19:61:24:4d:07:31:f2:87:09:61:15:
+                    8a:c4:20:90:cb:07:5a:16:c7:80:0f:e1:d2:51:df:
+                    20:c5:0a:4d:c7:02:f2:60:30:b0:e0:87:3c:6a:69:
+                    c1:a9:20:dd:37
+                ASN1 OID: prime256v1
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                9A:2A:8E:D0:E6:0E:A9:8E:DF:2F:0C:10:8E:F2:64:12:1C:5C:12:72
+            X509v3 Authority Key Identifier: 
+                keyid:13:04:5F:CA:88:7B:1E:8A:1B:27:E2:9A:F1:7C:10:A4:4B:C6:C9:FE
+
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                email:user_0002@example.com
+    Signature Algorithm: sha256WithRSAEncryption
+         01:1f:5d:c4:48:b3:95:f7:14:52:c4:ad:05:c4:9e:ea:1b:6b:
+         64:21:d8:63:83:44:04:fd:09:00:35:c9:0d:4b:ac:98:2d:b7:
+         89:d2:a8:ea:7e:70:d5:e7:28:e7:a4:fd:e0:6a:37:8e:01:29:
+         3c:d3:f8:c7:9a:07:ff:5a:bb:e3:e4:e3:46:e3:c3:cf:50:ff:
+         87:b4:bc:ce:66:15:8e:a4:19:e7:25:24:cd:50:d3:41:1c:62:
+         34:7d:c5:7b:a0:3d:53:a8:f4:c3:80:a6:e9:36:85:da:d0:d8:
+         a7:51:f6:17:04:84:90:34:91:b4:8f:4e:c9:a8:49:2c:46:05:
+         3c:3e:b4:1a:86:3b:c4:38:52:ae:ad:d5:24:97:53:f0:c9:82:
+         dd:10:e8:a3:d7:fa:4f:47:31:c4:80:f0:f7:63:6c:73:59:9e:
+         ee:fb:72:e2:8c:6e:1a:16:49:38:21:f6:8f:2b:81:98:a6:3e:
+         9a:41:c1:67:db:21:45:73:f4:a3:c1:6d:44:32:34:f5:11:db:
+         9f:8e:7d:14:34:8a:c4:ca:33:77:f6:8e:c5:5b:15:da:05:9c:
+         24:f8:14:d4:7b:37:bf:9f:fb:de:4c:58:50:1b:62:ba:2b:fa:
+         db:49:d3:cd:0c:63:ef:7a:18:7d:c1:34:fa:5a:57:c7:78:e0:
+         a5:d5:3f:5d
+-----BEGIN CERTIFICATE-----
+MIIDLDCCAhSgAwIBAgIBAjANBgkqhkiG9w0BAQsFADBrMQswCQYDVQQGEwJVUzEc
+MBoGA1UEChMTU2NoYWZlciBDb3Jwb3JhdGlvbjEVMBMGA1UECxMMSW9uaWMgTW9i
+aWxlMRUwEwYDVQQLEwxTZWN1cmUgU2hhcmUxEDAOBgNVBAMTB1Jvb3QgQ0EwHhcN
+MTQwMzI2MTgxMzIxWhcNMTUwMzI2MTgxMzIxWjB+MQswCQYDVQQGEwJVUzEcMBoG
+A1UEChMTU2NoYWZlciBDb3Jwb3JhdGlvbjEVMBMGA1UECxMMSW9uaWMgTW9iaWxl
+MRUwEwYDVQQLEwxTZWN1cmUgU2hhcmUxEDAOBgNVBAsTB0NsaWVudHMxETAPBgNV
+BAMTCFVzZXIwMDAyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8hvxYwPcVvD4
+7sDdRPTJOH0lGWEkTQcx8ocJYRWKxCCQywdaFseAD+HSUd8gxQpNxwLyYDCw4Ic8
+amnBqSDdN6OBkjCBjzAJBgNVHRMEAjAAMB0GA1UdDgQWBBSaKo7Q5g6pjt8vDBCO
+8mQSHFwScjAfBgNVHSMEGDAWgBQTBF/KiHseihsn4prxfBCkS8bJ/jALBgNVHQ8E
+BAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwIwIAYDVR0RBBkwF4EVdXNlcl8wMDAy
+QGV4YW1wbGUuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQABH13ESLOV9xRSxK0FxJ7q
+G2tkIdhjg0QE/QkANckNS6yYLbeJ0qjqfnDV5yjnpP3gajeOASk80/jHmgf/Wrvj
+5ONG48PPUP+HtLzOZhWOpBnnJSTNUNNBHGI0fcV7oD1TqPTDgKbpNoXa0NinUfYX
+BISQNJG0j07JqEksRgU8PrQahjvEOFKurdUkl1PwyYLdEOij1/pPRzHEgPD3Y2xz
+WZ7u+3LijG4aFkk4IfaPK4GYpj6aQcFn2yFFc/SjwW1EMjT1Edufjn0UNIrEyjN3
+9o7FWxXaBZwk+BTUeze/n/veTFhQG2K6K/rbSdPNDGPvehh9wTT6WlfHeOCl1T9d
+-----END CERTIFICATE-----
