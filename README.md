@@ -1,3 +1,7 @@
+## Latest News
+* Filed as Apple Rdar: 16482549, which Apple marked as a duplicate (Open) of 10450268, so Apple has known about this for a while.
+* Please duplicate!  Details of the bug submission are at: http://openradar.appspot.com/radar?id=5276828226813952
+
 ## Instructions for replicating the EC TLS handshake bug in iOS
 
 1. Install XCode and ruby.  We ran with XCode Version 5.1 (5B130a), and Ruby version ruby 1.9.3p362 (2012-12-25 revision 38607) [x86_64-darwin13.0.0]
