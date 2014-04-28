@@ -99,8 +99,5 @@ The details:
     * **Certificate Verify**
     * Change Cipher Spec
     
-* Wireshark packet capture files are here:
-  * client_rsa_server_rsa.pcapng
-  * client_ec_server_rsa.pcapng
-  * Wireshark filter used: 
+* Wireshark filter used: 
     * ip.src==192.168.0.0/16 && ip.dst==192.168.0.0/16 && tcp.port ==443
