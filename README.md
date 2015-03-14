@@ -1,5 +1,5 @@
 ## Latest News
-* Retested on Mar 12, 2015 and it now works in the iOS 8 simulator! It is still broken in iOS 7.
+* Retested on Mar 12, 2015 and **it now works in the iOS 8 simulator!** It is still broken in iOS 7.
 * Filed as Apple Rdar: 16482549, which Apple marked as a duplicate (Open) of 10450268, so Apple has known about this for a while.
 * Please duplicate!  Details of the bug submission are at: http://openradar.appspot.com/radar?id=5276828226813952
 
